@@ -1,7 +1,7 @@
 <div align="center">
   
   <a href="https://github.com/NotTrellox/Mega-Advance-Discord.js-v14-Handler">
-    <img src="https://media.discordapp.net/attachments/921614775421640714/1018708160996966440/DISCORD.JS_TEMPLATE_V14.png" width="75%"></img>
+    <img src="https://cdn.discordapp.com/attachments/998261506246459435/1061532077385846834/djs14handler.png" width="75%"></img>
   </a>
   
  
