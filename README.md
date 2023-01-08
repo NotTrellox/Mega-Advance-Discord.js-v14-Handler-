@@ -24,7 +24,8 @@
 
 
 ---------
-#Shard System,
+# Features
+Shard System,
 Error Logging System,
 Command logging System,
 Prefix And Slash Command Handling,
