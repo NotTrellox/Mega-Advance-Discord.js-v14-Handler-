@@ -17,7 +17,7 @@
 ---------
 <p align="center">
   <a href="https://dsc.gg/we-coders" target="_blank">
-      <img src="https://discord.com/api/guilds/1039379210168455188/widget.json" alt="We Coders Discord Server">
+      <img src="https://discordapp.com/api/guilds/1039379210168455188/widget.png?style=banner2" alt="We Coders Discord Server">
   </a>
 </p>
 
