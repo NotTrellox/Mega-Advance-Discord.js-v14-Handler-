@@ -1,0 +1,52 @@
+{
+
+"Client": {
+        "TOKEN": "",
+        "CLIENT_ID": ""
+},
+"MOD": {
+  "MODS": ["", ""]
+  
+},
+"DEVELOPER": {
+        "OWNER": [""],
+       "CO_OWNER": [""],
+       "SENIOR_DEV": [""],
+       "JUNIOR_DEV": [""]
+},
+
+"SETTINGS": {
+        "PREFIX": ".",
+
+        "LogsSystem": {
+                "ErrorChannel": "",
+                "CommandChannel": "",
+                "ShardChannel": "",
+                "OnlineChannel": "",
+                "VoiceChannel": "",
+                "TypeChannel": "",
+                "DmChannel": "",
+                "GuildChannel": ""
+          
+        }
+  
+},
+
+"CONNECTIONS": {
+        "MONGO_URI": "",
+        "OAUTHO2_INVITE": "",
+        "WEBSITE": "",
+        "DISCORD_SUPPORT": ""
+
+},
+
+"SERVER_ID": {
+        "OFFICIAL": [""],
+        "TEST": [""]
+}
+  
+   
+      
+
+  
+}

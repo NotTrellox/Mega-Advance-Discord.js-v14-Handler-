@@ -1,0 +1,10 @@
+{
+  "color": "#43eaf6",
+  "successcolor": "#00FF00",
+  "stanbycolor": "#FFFFFF",
+  "wrongcolor": "#FF0000",
+  "footertext": "Powered by Trellox",
+  "footericon": "https://cdn.discordapp.com/avatars/736200245855387728/13529f2d75e07483c697dd33af584215.webp?size=1024",
+  "authoricon": "",
+  "loadingicon": "https://cdn.discordapp.com/emojis/994612386713575534.gif?size=32&quality=lossless"
+}

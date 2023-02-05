@@ -1,0 +1,33 @@
+{
+  "Replit_User" : true,
+  "Replit": {
+    
+  "express": true,
+  "auto_kill": true
+    
+  
+  
+  
+},
+  "System": {
+
+    "anticrash": true,
+    "CommandLog": false,
+    "CommandErrLog": false,
+    "Slash_Global": true,
+    "Debug": true,
+    "OnlineLog":false,
+    "VoiceJoin":false,
+    "Typing":false,
+    "ShardLog":false,
+    "DmLog":false,
+    "GuildLog":true
+ 
+  },
+  "Client": {
+    "Mongo": true,
+    "PingStatus": false,
+    "ActivityStatus": true
+    
+  }
+}
